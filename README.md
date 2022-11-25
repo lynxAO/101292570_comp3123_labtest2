@@ -1,3 +1,7 @@
+<img width="956" alt="weather_app_postman" src="https://user-images.githubusercontent.com/79384984/203879586-aebf69f2-4f14-482c-99f5-9f71b9a76692.PNG">
+<img width="945" alt="weather_app_vancouver" src="https://user-images.githubusercontent.com/79384984/203879589-db8f44ea-cf16-42df-9276-78032eed0baa.PNG">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
